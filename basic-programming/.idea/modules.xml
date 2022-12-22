@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BilanganPrima/BilanganPrima.iml" filepath="$PROJECT_DIR$/BilanganPrima/BilanganPrima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DrawXYZ/DrawXYZ.iml" filepath="$PROJECT_DIR$/DrawXYZ/DrawXYZ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FaktorBilangan/FaktorBilangan.iml" filepath="$PROJECT_DIR$/FaktorBilangan/FaktorBilangan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KonversiNilai/KonversiNilai.iml" filepath="$PROJECT_DIR$/KonversiNilai/KonversiNilai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LuasSegitiga/LuasSegitiga.iml" filepath="$PROJECT_DIR$/LuasSegitiga/LuasSegitiga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mean/Mean.iml" filepath="$PROJECT_DIR$/Mean/Mean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/Palindrome/Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/SwitchCase/SwitchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TipeDate.iml" filepath="$PROJECT_DIR$/TipeDate.iml" />
+    </modules>
+  </component>
+</project>
