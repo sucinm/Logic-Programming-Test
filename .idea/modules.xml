@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/BilanganPrima/BilanganPrima.iml" filepath="$PROJECT_DIR$/basic-programming/BilanganPrima/BilanganPrima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/DrawXYZ/DrawXYZ.iml" filepath="$PROJECT_DIR$/basic-programming/DrawXYZ/DrawXYZ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/FaktorBilangan/FaktorBilangan.iml" filepath="$PROJECT_DIR$/basic-programming/FaktorBilangan/FaktorBilangan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/KonversiNilai/KonversiNilai.iml" filepath="$PROJECT_DIR$/basic-programming/KonversiNilai/KonversiNilai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/LuasSegitiga/LuasSegitiga.iml" filepath="$PROJECT_DIR$/basic-programming/LuasSegitiga/LuasSegitiga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/Mean/Mean.iml" filepath="$PROJECT_DIR$/basic-programming/Mean/Mean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/basic-programming/Palindrome/Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/basic-programming/SwitchCase/SwitchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/alta-qe-sucinm.iml" filepath="$PROJECT_DIR$/.idea/alta-qe-sucinm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/basic-programming.iml" filepath="$PROJECT_DIR$/basic-programming/basic-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object-oriented-programming/object-oriented-programming.iml" filepath="$PROJECT_DIR$/object-oriented-programming/object-oriented-programming.iml" />
+    </modules>
+  </component>
+</project>

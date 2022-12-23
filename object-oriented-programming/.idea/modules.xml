@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/object-oriented-programming.iml" filepath="$PROJECT_DIR$/object-oriented-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soal1/soal1.iml" filepath="$PROJECT_DIR$/soal1/soal1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soal2/soal2.iml" filepath="$PROJECT_DIR$/soal2/soal2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soal3/soal3.iml" filepath="$PROJECT_DIR$/soal3/soal3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soal4/soal4.iml" filepath="$PROJECT_DIR$/soal4/soal4.iml" />
+    </modules>
+  </component>
+</project>
